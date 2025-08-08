@@ -11,6 +11,9 @@ activity = "1.10.1"
 constraintlayout = "2.2.1"
 
 [libraries]
+androidx-lifecycle-livedata = { group = "androidx.lifecycle", name = "lifecycle-livedata", version = "2.9.2" }
+androidx-lifecycle-livedata-ktx = { group = "androidx.lifecycle", name = "lifecycle-livedata-ktx", version = "2.9.2" }
+androidx-lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version = "2.9.2" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
