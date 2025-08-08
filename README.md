@@ -1,4 +1,3 @@
----
 
 # 📄 Lab 4 Report: ViewModel, LiveData, MutableLiveData, and Data Binding Integration
 
